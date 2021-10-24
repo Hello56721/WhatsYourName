@@ -1,5 +1,7 @@
 # WhatsYourName
 
+[![Build status](https://github.com/Hello56721/WhatsYourName/actions/workflows/cmake.yml/badge.svg)](https://github.com/Hello56721/WhatsYourName/actions/workflows/cmake.yml)
+
 A simple C++ program that asks for your name.
 
 ## Getting started
