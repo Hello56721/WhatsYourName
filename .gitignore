@@ -54,6 +54,7 @@ rules.ninja
 .vs/
 .cmake/
 VSInheritEnvironments.txt
+CMakeSettings.json
 
 # Logs
 *.log
