@@ -41,3 +41,17 @@ CMakeFiles/
 .ninja_log
 build.ninja
 rules.ninja
+
+# Visual Studio Clutters
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.recipe
+*.ilk
+*.tlog
+.vs/
+
+# Logs
+*.log
