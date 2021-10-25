@@ -52,6 +52,8 @@ rules.ninja
 *.ilk
 *.tlog
 .vs/
+.cmake/
+VSInheritEnvironments.txt
 
 # Logs
 *.log
